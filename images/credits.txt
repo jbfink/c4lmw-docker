@@ -3,3 +3,4 @@ eniac.jpg / https://www.flickr.com/photos/revolweb/3985108034
 vax-11.jpg / https://www.flickr.com/photos/godzillante/2844501098
 ibmpc.jpg / https://www.flickr.com/photos/joshb/320869081
 messy-server-room.jpg / https://secure.flickr.com/photos/skippy/202112558/
+https://en.wikipedia.org/wiki/Docker#mediaviewer/File:Stevedores_ny_1912.jpg
